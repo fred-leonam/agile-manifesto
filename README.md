@@ -1,5 +1,9 @@
 ## ⚠️ Agile Manifesto - Critique & Reality Check
 
+<p align="center">
+  <img src="./images/agile-meeting-grayscale.png" alt="Agile Manifesto Critique" width="600"/>
+</p>
+
 Over the years, many teams have unintentionally turned **Agile** into a set of rituals rather than a mindset.  
 The **Agile Manifesto** was never meant to be prescriptive — it values *adaptation over compliance*.
 
