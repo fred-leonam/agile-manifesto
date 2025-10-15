@@ -1,4 +1,4 @@
-## ⚠️ Agile Manifesto - Critique & Reality Check
+## Agile Manifesto is not a priesthood
 
 <p align="center">
   <img src="./images/agile-meeting-grayscale.png" alt="Agile Manifesto Critique" width="600"/>
